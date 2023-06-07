@@ -7,4 +7,4 @@ import shutil
 import posixpath
 import wfdb
 
-
+record = wfdb.rdrecord('mit-bih-arrhythmia-database-1.0.0/101')
