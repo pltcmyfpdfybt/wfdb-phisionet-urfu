@@ -7,4 +7,4 @@ import shutil
 import posixpath
 import wfdb
 
-
+wfdb.plot_wfdb(record=record, title='Record 101 from MIT-BIH Arrhythmia')
