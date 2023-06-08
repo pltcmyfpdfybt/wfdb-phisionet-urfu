@@ -7,4 +7,4 @@ import shutil
 import posixpath
 import wfdb
 
-
+display(record.__dict__)
